@@ -1,0 +1,47 @@
+{
+  "button": {
+    "accent-dark": {
+      "background-color-hover": {
+        "inverse-false": {
+          "value": "#2c878c"
+        },
+        "inverse-true": {
+          "value": "{fill.white.background.value}"
+        }
+      },
+      "background-color": {
+        "fill": {
+          "value": "#267479"
+        },
+        "nofill": {
+          "value": "transparent"
+        }
+      },
+      "border-color": {
+        "value": "#267479"
+      },
+      "border-color-hover": {
+        "value": "#2c878c"
+      },
+      "box-shadow": {
+        "value": "0 0 0 0 rem"
+      },
+      "color-hover": {
+        "inverse-false": {
+          "value": "{fill.white.background.value}"
+        },
+        "inverse-true": {
+          "value": "#267479"
+        }
+      },
+      "color": {
+        "fill": {
+          "value": "{fill.white.background.value}"
+        },
+        "nofill": {
+          "value": "#267479"
+        }
+      }
+    }
+  }
+}

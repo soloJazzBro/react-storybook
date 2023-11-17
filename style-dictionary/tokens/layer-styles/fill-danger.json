@@ -1,0 +1,12 @@
+{
+  "fill": {
+    "danger": {
+      "background": {
+        "value": "rgb(163, 44, 0)"
+      },
+      "opacity": {
+        "value": "1"
+      }
+    }
+  }
+}

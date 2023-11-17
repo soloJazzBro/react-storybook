@@ -1,0 +1,21 @@
+{
+  "source": ["style-dictionary/tokens/**/*.json"],
+  "platforms": {
+    "scss": {
+      "transformGroup": "scss",
+      "buildPath": "style-dictionary/build/scss/",
+      "files": [{
+        "destination": "_ux-components.scss",
+        "format": "scss/variables"
+      }]
+    },
+    "css": {
+      "transformGroup": "css",
+      "buildPath": "style-dictionary/build/css/",
+      "files": [{
+        "destination": "ux-components.css",
+        "format": "css/variables"
+      }]
+    }
+  }
+}

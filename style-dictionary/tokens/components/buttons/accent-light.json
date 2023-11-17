@@ -1,0 +1,34 @@
+{
+  "button": {
+    "accent-light": {
+      "background-color-hover": {
+        "inverse-false": {
+          "value": "#82c9cd"
+        },
+        "inverse-true": {
+          "value": "{fill.white.background.value}"
+        }
+      },
+      "background-color": {
+        "fill": {
+          "value": "#70c1c6"
+        },
+        "nofill": {
+          "value": "transparent"
+        }
+      },
+      "border-color": {
+        "value": "#70c1c6"
+      },
+      "border-color-hover": {
+        "value": "#82c9cd"
+      },
+      "color": {
+        "value": "#333333"
+      },
+      "color-hover": {
+        "value": "#333333"
+      }
+    }
+  }
+}
